@@ -1,3 +1,4 @@
+<h1 align="center">Hi, we're the Magatamy Company</h1>
 <h3 align="center">Creating Minecraft plugins, servers, and Discord bots</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magatamy&label=Profile%20views&color=fe4394&style=flat" alt="magatamy" /> </p>
