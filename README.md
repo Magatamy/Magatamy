@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1242813453232640120/1280984335830356070/image.png?ex=66e3f461&is=66e2a2e1&hm=1903f3a17e49d3325e6a7acb0734b37c287b48435bd6392aca4fed670189f467&)](https://magatamy.com)
 <h1 align="center">Hi, we're the Magatamy Company</h1>
 <h3 align="center">Creating Minecraft Plugins, Servers and Discord bots</h3>
 
